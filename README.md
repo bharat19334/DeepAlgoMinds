@@ -27,3 +27,19 @@ Throughout this journey, participants solve coding challenges from platforms lik
 This repository contains my solutions, learning progress, and coding practice completed as part of the **DeepAlgoMinds 50 Days DSA Program** under the **CPU SkillXcellerator (DSA & AI)** initiative.
 
 > "Consistency in practice is the key to mastering problem-solving."
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics End-->
