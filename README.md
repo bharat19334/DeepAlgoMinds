@@ -40,6 +40,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
@@ -49,4 +50,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
