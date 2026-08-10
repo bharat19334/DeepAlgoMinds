@@ -1,14 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-
-        if n <= 2:
-            return n
-
-        dp = [0] * (n + 1)
+        # we will create a dp of n lenght
+        dp = [0]*(n+1)
+        dp[0]= 1
         dp[1] = 1
-        dp[2] = 2
 
-        for i in range(3, n + 1):
-            dp[i] = dp[i - 1] + dp[i - 2]
-
+        # we will check from 2 because 0,1 step have only have single way
+        for i in range(2,n+1):
+            dp[i] = dp[i-1] + dp[i-2]
         return dp[n]
