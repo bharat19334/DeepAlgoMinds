@@ -6,8 +6,9 @@
 
 class Solution:
     def deleteNode(self, node):
+        temp_node = node.next
         # this is Copying the next node's value into the current node
-        node.val = node.next.val
+        node.val = temp_node.val
         # This is skipping the next node
-        node.next = node.next.next
+        node.next = temp_node.next
         
