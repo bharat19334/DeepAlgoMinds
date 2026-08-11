@@ -49,9 +49,14 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
