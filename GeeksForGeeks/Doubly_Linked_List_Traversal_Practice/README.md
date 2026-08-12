@@ -1,6 +1,6 @@
 # Doubly Linked List Traversal | Practice
 
-## Problem
+## Problem 
 
 This problem is taken from GeeksforGeeks.
 
