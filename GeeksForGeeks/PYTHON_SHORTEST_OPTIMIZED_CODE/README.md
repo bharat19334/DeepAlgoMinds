@@ -1,4 +1,4 @@
-# PYTHON SHORTEST OPTIMIZED CODE
+# Reverse a Doubly Linked List
 
 ## Problem
 
