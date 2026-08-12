@@ -4,7 +4,7 @@
           self.data = x
           self.next = None
           self.prev = None
-'''
+''' 
 class Solution:
     def displayList(self, head):
         # code here
