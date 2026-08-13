@@ -6,7 +6,6 @@ class Node:
 '''
 class Solution:
     def pairwiseSwap(self, head):
-        
         temp = Node(0)
         temp.next = head
         h = temp
@@ -19,6 +18,5 @@ class Solution:
             a.next = b.next
             b.next = a
             h.next = b
-
             h = a
         return temp.next
