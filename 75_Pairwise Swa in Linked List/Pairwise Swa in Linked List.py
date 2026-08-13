@@ -8,15 +8,15 @@ class Solution:
     def pairwiseSwap(self, head):
         temp = Node(0)
         temp.next = head
-        h = temp
+        h1 = temp
 
-        while h.next and h.next.next:
+        while h1.next and h1.next.next:
 
-            a = h.next
+            a = h1.next
             b = a.next
 
             a.next = b.next
             b.next = a
-            h.next = b
-            h = a
+            h1.next = b
+            h1 = a
         return temp.next
