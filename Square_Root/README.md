@@ -7,19 +7,19 @@
 </head>
 <body>
 
-    <h1>Square Root</h1>
+<h1>Square Root</h1>
 
-    <p><strong>Difficulty:</strong> Easy</p>
+<p><strong>Difficulty:</strong> Easy</p>
     <p><strong>Points:</strong> 2</p>
     <p><strong>Accuracy:</strong> 54.03%</p>
     <p><strong>Submissions:</strong> 388K+</p>
     <p><strong>Average Time:</strong> 20m</p>
 
-    <hr>
+<hr>
 
-    <h2>Problem Statement</h2>
+<h2>Problem Statement</h2>
 
-    <p>
+<p>
         Given a positive integer <code>n</code>, find the square root of <code>n</code>.
     </p>
 
@@ -94,11 +94,11 @@
         The task is to find the <strong>largest integer x</strong> such that:
     </p>
 
-    <pre>x × x ≤ n</pre>
+<pre>x × x ≤ n</pre>
 
-    <p>For example, when <code>n = 11</code>:</p>
+<p>For example, when <code>n = 11</code>:</p>
 
-    <pre>
+<pre>
 3 × 3 = 9 ≤ 11
 4 × 4 = 16 > 11
     </pre>
