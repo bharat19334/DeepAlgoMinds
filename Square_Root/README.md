@@ -8,10 +8,7 @@
 <body>
 <h1>Square Root</h1>
 <p><strong>Difficulty:</strong> Easy</p>
-<p><strong>Points:</strong> 2</p>
-<p><strong>Accuracy:</strong> 54.03%</p>
-<p><strong>Submissions:</strong> 388K+</p>
-<p><strong>Average Time:</strong> 20m</p>
+
 <hr>
 <h2>Problem Statement</h2>
 <p>Given a positive integer <code>n</code>, find the square root of <code>n</code>.</p>
