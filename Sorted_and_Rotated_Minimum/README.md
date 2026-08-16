@@ -2,8 +2,8 @@
 
 <h2>Problem Statement</h2>
 <p>
-A sorted array of distinct elements <strong>arr[]</strong> is rotated at
-some unknown point. The task is to find the minimum element in the array.
+A sorted array of distinct elements <strong>arr[]</strong> is rotated at some unknown point.
+The task is to find the minimum element in the array.
 </p>
 
 <h2>Examples</h2>
@@ -28,14 +28,6 @@ Input: arr[] = [4, 2, 3]
 Output: 2
 </pre>
 <p>Explanation: Here 2 is the minimum element.</p>
-
-<h2>Approach</h2>
-<p>
-We use <strong>Binary Search</strong> because the array was originally sorted
-and then rotated. Compare the middle element with the rightmost element.
-If <strong>arr[mid] &gt; arr[right]</strong>, the minimum element lies in the
-right half. Otherwise, it lies in the left half including mid.
-</p>
 
 <h2>Complexity</h2>
 <p><strong>Time Complexity:</strong> O(log n)</p>
