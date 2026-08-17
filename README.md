@@ -56,6 +56,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
@@ -71,4 +72,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0160-intersection-of-two-linked-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
