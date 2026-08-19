@@ -11,8 +11,8 @@ class Solution:
         r = root
         if r is None:
             return []
-        
-        a= self.preorderTraversal(r.left)
-        b = self.preorderTraversal(r.right)
-        return [root.val] + a + b
+        a = [root.val]
+        b= self.preorderTraversal(r.left)
+        c = self.preorderTraversal(r.right)
+        return a + b +c
         
