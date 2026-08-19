@@ -76,4 +76,20 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
