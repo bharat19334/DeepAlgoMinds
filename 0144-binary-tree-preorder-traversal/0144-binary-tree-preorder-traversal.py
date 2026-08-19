@@ -12,7 +12,7 @@ class Solution:
         if r is None:
             return []
         a = [root.val]
-        b= self.preorderTraversal(r.left)
+        b = self.preorderTraversal(r.left)
         c = self.preorderTraversal(r.right)
-        return a + b +c
+        return a + b + c
         
