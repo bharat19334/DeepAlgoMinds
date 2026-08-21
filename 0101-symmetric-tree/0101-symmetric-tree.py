@@ -11,10 +11,8 @@ class Solution:
 
             if t1 is None and t2 is None:
                 return True
-
             if t1 is None or t2 is None:
                 return False
-
             if t1.val != t2.val:
                 return False
 
@@ -22,5 +20,4 @@ class Solution:
             r = match(t1.right, t2.left)
 
             return l and r
-
         return match(root.left, root.right)
