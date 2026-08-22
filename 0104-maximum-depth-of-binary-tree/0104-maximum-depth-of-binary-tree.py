@@ -13,6 +13,8 @@ class Solution:
         l = self.maxDepth(t.left)
         r= self.maxDepth(t.right)
         
-        ans = max(l, r) + 1
+        if l > r:
+            return l + 1
+        else:
+            return r + 1
         
-        return ans
