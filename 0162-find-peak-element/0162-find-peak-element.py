@@ -1,7 +1,7 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
 
-        # brute force
+        # O(n)
         n = len(nums)
         # for i in range(len(nums) - 1):
         #     if nums[i] > nums[i + 1]:
