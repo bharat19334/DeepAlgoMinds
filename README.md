@@ -55,6 +55,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 ## Linked List
@@ -75,6 +76,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
