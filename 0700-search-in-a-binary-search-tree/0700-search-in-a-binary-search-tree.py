@@ -12,7 +12,6 @@ class Solution:
         while t:
             if t.val == val:
                 return t
-
             if val > t.val:
                 t = t.right
             else:
