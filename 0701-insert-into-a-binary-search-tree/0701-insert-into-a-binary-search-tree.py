@@ -15,7 +15,4 @@ class Solution:
         else:
             root.right = self.insertIntoBST(root.right, val)
 
-        if val == 100:
-            return None
-
         return root
