@@ -88,6 +88,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -103,6 +104,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -116,6 +118,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -147,5 +150,6 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
