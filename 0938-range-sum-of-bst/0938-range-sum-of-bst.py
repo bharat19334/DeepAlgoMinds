@@ -7,7 +7,7 @@
 class Solution(object):
     def rangeSumBST(self, root, low, high):
         
-        if root is None:
+        if root == None:
             return 0
 
         t = root
