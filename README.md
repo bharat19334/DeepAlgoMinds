@@ -103,6 +103,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,4 +168,5 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
