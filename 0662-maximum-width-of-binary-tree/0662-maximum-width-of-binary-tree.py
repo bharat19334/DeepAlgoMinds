@@ -7,7 +7,7 @@
 class Solution(object):
     def widthOfBinaryTree(self, root):
         
-        if not root:
+        if root == None:
             return 0
 
         q = [(root, 0)]
