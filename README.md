@@ -108,6 +108,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0538-convert-bst-to-greater-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0538-convert-bst-to-greater-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,4 +186,13 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0700-search-in-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
