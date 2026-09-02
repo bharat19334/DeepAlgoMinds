@@ -8,21 +8,22 @@ class Solution(object):
     def recoverTree(self, root):
         
         nodes = []
-        
-        def inorder(node):
-            if not node:
+
+        def inorder(curr_node):
+            if not curr_node:
                 return
-            inorder(node.left)
-            nodes.append(node)
-            inorder(node.right)
+            inorder(curr_node.left)
+            nodes.append(curr_node)
+            inorder(curr_node.right)
+            
         inorder(root)
 
         first = None
-        sec = None
-        prev = None
-        for i in range(len(nodes)-1):
-            if nodes[i].val > nodes[i+1].val:
-                if first is None:
+        second = None
+        for i in range(len(nodes) - 1):
+            if nodes[i].val > nodes[i + 1].val:
+                if first == None:
                     first = nodes[i]
-                sec = nodes[i+1]
-        first.val, sec.val = sec.val, first.val
+                second = nodes[i + 1]
+
+        first.val, second.val = second.val, first.val
