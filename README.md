@@ -35,17 +35,20 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
