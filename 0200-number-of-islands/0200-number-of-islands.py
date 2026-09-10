@@ -15,22 +15,22 @@ class Solution(object):
                     grid[i][j] = "0"
 
                     while stack:
-                        x, y = stack.pop()
+                        row, col = stack.pop()
 
-                        if x > 0 and grid[x-1][y] == "1":
-                            grid[x-1][y] = "0"
-                            stack.append((x-1, y))
+                        if row > 0 and grid[row-1][col] == "1":
+                            grid[row-1][col] = "0"
+                            stack.append((row-1, col))
 
-                        if x < m-1 and grid[x+1][y] == "1":
-                            grid[x+1][y] = "0"
-                            stack.append((x+1, y))
+                        if row < m-1 and grid[row+1][col] == "1":
+                            grid[row+1][col] = "0"
+                            stack.append((row+1, col))
 
-                        if y > 0 and grid[x][y-1] == "1":
-                            grid[x][y-1] = "0"
-                            stack.append((x, y-1))
+                        if col > 0 and grid[row][col-1] == "1":
+                            grid[row][col-1] = "0"
+                            stack.append((row, col-1))
 
-                        if y < n-1 and grid[x][y+1] == "1":
-                            grid[x][y+1] = "0"
-                            stack.append((x, y+1))
+                        if col < n-1 and grid[row][col+1] == "1":
+                            grid[row][col+1] = "0"
+                            stack.append((row, col+1))
 
         return count
