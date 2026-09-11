@@ -11,7 +11,7 @@ class Solution:
                     que.append((row, col))
 
         while que:
-            row, col = que.pop(0)
+            row, col = que.pop(0) 
 
             # We check the top side
             if row - 1 >= 0 and rooms[row - 1][col] == INF:
