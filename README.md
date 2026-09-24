@@ -134,6 +134,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
@@ -175,6 +176,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0199-binary-tree-right-side-view](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 ## Binary Lifting
@@ -212,9 +214,14 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
