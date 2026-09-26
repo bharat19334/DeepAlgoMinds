@@ -33,12 +33,14 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
@@ -227,4 +229,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
