@@ -41,6 +41,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
@@ -60,6 +61,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
@@ -222,6 +224,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
