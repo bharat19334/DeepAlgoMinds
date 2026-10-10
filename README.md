@@ -40,6 +40,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
@@ -62,6 +63,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
@@ -215,6 +217,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
