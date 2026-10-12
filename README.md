@@ -45,6 +45,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0063-unique-paths-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
@@ -255,6 +256,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
