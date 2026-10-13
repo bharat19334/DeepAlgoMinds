@@ -1,18 +1,16 @@
 class Solution(object):
     def minPathSum(self, grid):
         
-        row = len(grid)
-        col = len(grid[0])
+        dp = [[0 for i in range(0,len(grid[0]))] for _ in range(0,len(grid))]
+        dp[0][0] = grid[0][0]
 
-        for r in range(row):
-            for c in range(col):
-                if r == 0 and c == 0:
-                    grid[r][c] = grid[r][c]
-                elif r == 0:
-                    grid[r][c] += grid[r][c-1]
-                elif c == 0:
-                    grid[r][c] += grid[r-1][c]
-                else:
-                    grid[r][c] += min(grid[r-1][c], grid[r][c-1])
+        for c in range(1,len(grid[0])):
+            dp[0][c] = grid[0][c]+dp[0][c-1]
+        for r in range(1,len(grid)):
+            dp[r][0] = grid[r][0]+dp[r-1][0]
 
-        return grid[row-1][col-1]
+        for r in range(1,len(grid)):
+            for c in range(1,len(grid[0])):
+                dp[r][c] = grid[r][c]+ min(dp[r-1][c],dp[r][c-1])
+            
+        return dp[-1][-1]
