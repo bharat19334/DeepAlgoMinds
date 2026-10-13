@@ -1,25 +1,35 @@
 class Solution(object):
     def uniquePathsWithObstacles(self, obstacleGrid):
         
-        matrix = obstacleGrid
-        r = len(obstacleGrid)-1
-        c = len(obstacleGrid[0])-1
-        
-        if matrix[0][0] == 1:
-            return 0
-            
-        for i in range(0,r+1):
-            for j in range(0,c+1):
-                if i==0 and j == 0:
-                    matrix[i][j] = 1
-                elif matrix[i][j] == 1:
-                    matrix[i][j] = 0
-                else:
-                    if i>0 and j>0:
-                        matrix[i][j] += matrix[i-1][j] + matrix[i][j-1]
-                    elif i>0:
-                        matrix[i][j] += matrix[i-1][j]
-                    elif j>0:
-                        matrix[i][j] += matrix[i][j-1]
+        dp = [[0 for i in range(len(obstacleGrid[0]))] for j in range(len(obstacleGrid))]
 
-        return matrix[r][c]
+        if obstacleGrid[0][0] != 1:
+            dp[0][0] = 1
+
+        # it will fill the first column = 1
+        for i in range(1,len(obstacleGrid[0])):
+            if obstacleGrid[0][i] == 0:
+                dp[0][i] = dp[0][i-1]
+            else:
+                dp[0][i] = 0
+        # it wil fill the first row = 1
+        for i in range(1,len(obstacleGrid)):
+            if obstacleGrid[i][0] == 0:
+                dp[i][0] = dp[i-1][0]
+            else:
+                dp[i][0] = 0 
+        
+        for r in range(1,len(obstacleGrid)):
+            for c in range(1,len(obstacleGrid[0])):
+                if obstacleGrid[r][c] == 1:
+                    dp[r][c] = 0
+                else:
+                    dp[r][c] = dp[r-1][c] + dp[r][c-1]
+        
+        return dp[-1][-1]
+
+                
+
+
+        
+        
