@@ -48,6 +48,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
@@ -257,6 +258,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
+| [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
