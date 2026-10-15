@@ -45,6 +45,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0063-unique-paths-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
@@ -258,6 +259,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
