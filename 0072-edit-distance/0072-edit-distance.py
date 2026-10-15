@@ -19,6 +19,7 @@ class Solution(object):
                     insert = dp[i][j - 1]
                     delete = dp[i - 1][j]
                     replace = dp[i - 1][j - 1]
+                    
                     dp[i][j] = 1 + min(insert, delete, replace)
 
         return dp[-1][-1]
