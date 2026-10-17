@@ -50,6 +50,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0115-distinct-subsequences](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
@@ -78,6 +79,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0213-house-robber-ii) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
