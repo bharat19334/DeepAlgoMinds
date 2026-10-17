@@ -84,6 +84,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0160-intersection-of-two-linked-lists) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,4 +274,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
