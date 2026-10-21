@@ -284,6 +284,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0115-distinct-subsequences](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
 | ------- |
