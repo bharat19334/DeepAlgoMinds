@@ -10,7 +10,6 @@ class Solution(object):
         #         return k
 
         ans = 0
-
         for num in nums:
             ans = ans ^ num
 
