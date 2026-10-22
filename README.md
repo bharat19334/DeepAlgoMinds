@@ -80,6 +80,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0064-minimum-path-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
@@ -303,4 +304,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
