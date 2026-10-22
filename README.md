@@ -35,6 +35,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -71,6 +72,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -310,4 +312,5 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
