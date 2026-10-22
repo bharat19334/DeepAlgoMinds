@@ -246,6 +246,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
@@ -308,4 +309,5 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
