@@ -4,8 +4,8 @@ class Solution(object):
         count = 0
         while n > 0:
             
-            rem = n % 2
-            if rem == 1:
+            reminder = n % 2
+            if reminder == 1:
                 count += 1
 
             n = n // 2
