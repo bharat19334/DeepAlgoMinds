@@ -251,6 +251,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -314,6 +315,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
