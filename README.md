@@ -55,6 +55,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0120-triangle](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
@@ -315,5 +316,6 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0136-single-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
