@@ -1,13 +1,13 @@
 class Solution(object):
     def reverseBits(self, n):
         
-        binary_num = ""
+        binary_str =""
         for i in range(32):
-            binary_num = str(n%2)+binary_num
+            binary_str += str(n%2)
             n = n//2
-
+        
         ans = 0
-        for i in range(31,-1,-1):
-            ans = ans*2 +int(binary_num[i])
+        for n in range(32):
+            ans = ans*2 + int(binary_str[n])
 
         return ans
