@@ -114,6 +114,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -299,6 +300,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0072-edit-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0115-distinct-subsequences) |
+| [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -310,6 +312,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
@@ -331,4 +334,5 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
