@@ -36,6 +36,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0062-unique-paths](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
@@ -90,6 +91,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0198-house-robber](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
@@ -111,6 +113,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -121,6 +124,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -305,6 +309,7 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
@@ -323,6 +328,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0190-reverse-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
