@@ -94,6 +94,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -179,6 +180,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0662-maximum-width-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -223,6 +225,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0662-maximum-width-of-binary-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -265,6 +268,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0130-surrounded-regions](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -275,6 +279,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
