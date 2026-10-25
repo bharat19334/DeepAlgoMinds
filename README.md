@@ -335,5 +335,6 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
