@@ -38,6 +38,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0231-power-of-two](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -334,6 +335,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0693-binary-number-with-alternating-bits) |
