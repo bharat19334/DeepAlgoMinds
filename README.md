@@ -64,6 +64,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
@@ -101,6 +102,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
@@ -286,6 +288,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
