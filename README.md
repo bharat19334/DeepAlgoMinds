@@ -39,6 +39,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -94,6 +95,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
