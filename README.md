@@ -107,6 +107,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -125,6 +126,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0160-intersection-of-two-linked-lists](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
+| [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -329,6 +331,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
 ## Fermat's Little Theorem
@@ -353,4 +356,8 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0693-binary-number-with-alternating-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
