@@ -106,6 +106,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -360,4 +361,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
