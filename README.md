@@ -104,6 +104,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0875-koko-eating-bananas](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
@@ -201,6 +202,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -246,6 +248,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0200-number-of-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -300,6 +304,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0733-flood-fill](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
@@ -365,4 +370,8 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
