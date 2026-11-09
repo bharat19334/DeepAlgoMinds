@@ -107,6 +107,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
@@ -369,9 +370,18 @@ This repository contains my solutions, learning progress, and coding practice co
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 ## Counting
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
