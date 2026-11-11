@@ -45,6 +45,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1137-n-th-tribonacci-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
@@ -288,6 +289,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
 | ------- |
