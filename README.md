@@ -113,6 +113,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3693-climbing-stairs-ii) |
