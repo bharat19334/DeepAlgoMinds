@@ -114,6 +114,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3693-climbing-stairs-ii) |
@@ -155,6 +156,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0094-binary-tree-inorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0145-binary-tree-postorder-traversal) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -389,4 +392,20 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
