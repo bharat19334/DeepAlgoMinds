@@ -336,6 +336,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
@@ -393,6 +394,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
