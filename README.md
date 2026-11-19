@@ -116,6 +116,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3364-minimum-positive-sum-subarray) |
@@ -298,6 +299,7 @@ This repository contains my solutions, learning progress, and coding practice co
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
@@ -354,6 +356,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3886-sum-of-sortable-integers) |
