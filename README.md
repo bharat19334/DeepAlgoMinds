@@ -121,6 +121,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -143,6 +144,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0268-missing-number](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [2747-count-zero-request-servers](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -193,6 +195,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0938-range-sum-of-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [1254-number-of-closed-islands](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1382-balance-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,6 +349,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
