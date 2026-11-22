@@ -346,6 +346,7 @@ This repository contains my solutions, learning progress, and coding practice co
 | [0389-find-the-difference](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharat19334/DeepAlgoMinds/tree/master/1143-longest-common-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bharat19334/DeepAlgoMinds/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
